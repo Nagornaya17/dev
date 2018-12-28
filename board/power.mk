@@ -1,0 +1,3 @@
+# Power
+TARGET_POWER_HAL := true
+TARGET_HAS_NO_WLAN_STATS := true
